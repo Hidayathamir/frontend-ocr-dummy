@@ -1,4 +1,4 @@
-# streamlit-tima-nodeflux
+# frontend-ocr-dummy
 
 ![demo1](README_assets/demo1.png)
 ![demo2](README_assets/demo2.png)
