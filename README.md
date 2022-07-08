@@ -1,6 +1,7 @@
 # streamlit-tima-nodeflux
 
-Will be updated!
+![demo1](README_assets/demo1.png)
+![demo2](README_assets/demo2.png)
 
 # Quick Start
 
@@ -10,7 +11,7 @@ Will be updated!
    ```
 2. Run streamlit.
    ```
-   streamlit run main
+   streamlit run main.py
    ```
 3. It's running on `http://localhost:8501/`
 
